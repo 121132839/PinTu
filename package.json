@@ -1,0 +1,27 @@
+{
+  "name": "pintu",
+  "version": "1.0.0",
+  "description": "拼图游戏1.0.0 简介：一个丑屌丝，为了吃饱饭，开始漫无目的地暴躁，一个不甘饿死的人类。",
+  "main": "index.js",
+  "scripts": {
+    "test": "testStart"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/121132839/PinTu.git"
+  },
+  "keywords": [
+    "p5.js",
+    "nodejs",
+    "算法"
+  ],
+  "author": "认真的我",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/121132839/PinTu/issues"
+  },
+  "homepage": "https://github.com/121132839/PinTu#readme",
+  "dependencies": {
+    "p5": "^0.7.2"
+  }
+}
