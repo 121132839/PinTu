@@ -4,6 +4,7 @@
   "description": "拼图游戏1.0.0 简介：一个丑屌丝，为了吃饱饭，开始漫无目的地暴躁，一个不甘饿死的人类。",
   "main": "index.js",
   "scripts": {
+    "start": "node main.js",
     "test": "testStart"
   },
   "repository": {
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/121132839/PinTu#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "p5": "^0.7.2"
   }
 }
